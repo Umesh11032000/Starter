@@ -1,0 +1,66 @@
+// Body
+// $body-bg: #FFFFFF;
+
+// input border
+$input-border-color: #F2985B;
+
+// Input focus and hover
+$input-focus-border-color: #F2985B;
+$input-focus-box-shadow: 0 0 0 0.2rem rgba(162, 102, 61, 0.25);
+$input-hover-border-color: #F2985B;
+
+// Typography
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// DataTables
+// Pagination
+$pagination-bg: #FFFFFF;
+$pagination-border-color: #F2985B;
+$pagination-hover-bg: #F2985B;
+$pagination-hover-color: #FFFFFF;
+$pagination-active-bg: #F2985B;
+$pagination-active-color: #FFFFFF;
+$pagination-disabled-bg: #FFFFFF;
+$pagination-disabled-color: #F2985B;
+
+// bs pagination color
+$pagination-link-color: #F2985B;
+$pagination-link-hover-color: #FFFFFF;
+$pagination-link-active-color: #FFFFFF;
+$pagination-link-disabled-color: #F2985B;
+
+// bs pagination bg
+$pagination-link-bg: #FFFFFF;
+$pagination-link-hover-bg: #F2985B;
+$pagination-link-active-bg: #F2985B;
+$pagination-link-disabled-bg: #FFFFFF;
+
+// bs pagination border
+$pagination-link-border-color: #F2985B;
+$pagination-link-hover-border-color: #F2985B;
+$pagination-link-active-border-color: #F2985B;
+$pagination-link-disabled-border-color: #F2985B;
+
+// bs pagination border radius
+$pagination-border-radius: 0.25rem;
+
+// bs pagination padding
+$pagination-padding-y: 0.375rem;
+$pagination-padding-x: 0.75rem;
+
+// bs pagination margin
+$pagination-margin-bottom: 1rem;
+
+// Link 
+$link-color: #F2985B;
+$link-hover-color: #F2985B;
+$link-hover-text-decoration: none;
+
+// Remove striped background
+$table-striped-bg: #FFFFFF;
+
+a {
+    text-decoration: none !important;
+}
